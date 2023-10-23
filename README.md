@@ -4,7 +4,7 @@ Vanis UI Library because source was removed
 ## Example
 
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/VanisUI/main/Source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/10memati/VanisUI/main/Source.lua'))()
 
 local Window = Library:CreateWindow("Name", "Version", 10044538000)
 
